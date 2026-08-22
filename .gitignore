@@ -1,0 +1,8 @@
+# artefakty budowania
+*.o
+st
+
+# śmieci po nakładaniu patchy i ręczne kopie konfiguracji
+*.orig
+*.rej
+config.h.backup-*
