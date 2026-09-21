@@ -20,6 +20,10 @@ you can manually run `tic -sx st.info`.
 
 ## How do I scroll back up?
 
+This fork already includes scrollback: use Shift+Page Up/Page Down or the mouse
+wheel with the tracked `config.h` (unless the application captures mouse input).
+The options below are upstream alternatives; do not reapply the included patch.
+
 * Using a terminal multiplexer.
 	* `st -e tmux` using C-b [
 	* `st -e screen` using C-a ESC
