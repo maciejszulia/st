@@ -1,8 +1,12 @@
 # st: terminal with scrollback
 
+[Polski](README.pl.md)
+
 A local fork of suckless st 0.9.3 for X11, with a 2,000-line scrollback buffer
 and adjusted mouse bindings. The upstream terminal and authors remain credited
 in [LICENSE](LICENSE).
+
+![Four repositories make one desktop. Scripts feed dwmblocks, dwmblocks writes the status text, dwm draws it and sends each click back as a signal; st is the terminal.](docs/diagrams/desktop-stack.svg)
 
 ## Local configuration
 

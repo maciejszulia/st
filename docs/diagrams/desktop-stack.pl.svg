@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 286" width="960" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" role="img" aria-label="4 repozytoria tworzą 1 pulpit. Skrypty zasilają dwmblocks, dwmblocks zapisuje tekst statusu, dwm rysuje pasek i odsyła każde kliknięcie jako sygnał; st to terminal.">
+<rect width="960" height="286" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#111111"/></marker></defs>
+<text x="16" y="32" font-size="15" font-weight="bold" fill="#111111">4 repozytoria tworzą 1 pulpit. Skrypty zasilają dwmblocks, dwmblocks zapisuje tekst</text>
+<text x="16" y="53" font-size="15" font-weight="bold" fill="#111111">statusu, dwm rysuje pasek i odsyła każde kliknięcie jako sygnał; st to terminal.</text>
+<polyline points="230,114 254,114" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="468,114 492,114" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="706,114 730,114" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="837,156 837,186" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="837,156 837,171 599,171 599,186" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="16" y="72" width="214" height="84" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="24" y="101.5" fill="#c8102e" font-weight="bold">dwm-bar-scripts</text>
+<text x="24" y="118.5" fill="#111111">pogoda, CPU, GPU,</text>
+<text x="24" y="135.5" fill="#111111">głośność, ping, limity AI</text>
+<rect x="254" y="72" width="214" height="84" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="262" y="101.5" fill="#c8102e" font-weight="bold">fork dwmblocks</text>
+<text x="262" y="118.5" fill="#111111">uruchamia każdy blok,</text>
+<text x="262" y="135.5" fill="#111111">łączy pierwsze linie</text>
+<rect x="492" y="72" width="214" height="84" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="500" y="93" fill="#111111" font-weight="bold">nazwa okna root X</text>
+<text x="500" y="110" fill="#111111">tekst statusu</text>
+<text x="500" y="127" fill="#111111">ze znacznikami zwijania</text>
+<text x="500" y="144" fill="#111111">i kliknięć</text>
+<rect x="730" y="72" width="214" height="84" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="738" y="101.5" fill="#c8102e" font-weight="bold">fork dwm 6.8</text>
+<text x="738" y="118.5" fill="#111111">rysuje pasek,</text>
+<text x="738" y="135.5" fill="#111111">18 tagów, zwijany pasek</text>
+<rect x="730" y="186" width="214" height="84" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="738" y="215.5" fill="#c8102e" font-weight="bold">fork st 0.9.3</text>
+<text x="738" y="232.5" fill="#111111">terminal z historią</text>
+<text x="738" y="249.5" fill="#111111">2000 linii</text>
+<rect x="492" y="186" width="214" height="84" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+<text x="500" y="207" fill="#c8102e" font-weight="bold">Kliknięcie w blok</text>
+<text x="500" y="224" fill="#111111">dwm wysyła SIGRTMIN+n;</text>
+<text x="500" y="241" fill="#111111">blok uruchamia się</text>
+<text x="500" y="258" fill="#111111">ponownie z BUTTON</text>
+</svg>
