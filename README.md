@@ -54,3 +54,7 @@ clipboard integration. See [st.1](st.1) and [FAQ](FAQ) for usage details.
 
 Based on [suckless st](https://st.suckless.org/) and Aurélien APTEL's bt source.
 The MIT/X Consortium licence and original copyright notices are retained.
+
+## Documentation
+
+- [Architecture (arc42, diagrams, ADRs)](docs/architecture/README.md)
